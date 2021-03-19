@@ -1,2 +1,2 @@
-# SARSA-learning
+# Tabular-learning
 sa
